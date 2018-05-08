@@ -160,8 +160,3 @@ int main(int argc, char **argv) {
     return 0;
 }
 
-//tar -zcvf gerardo_mares_assignment0.tar.gz gerardo_mares_assignment0
-//tar xvzf gerardo_mares_assignment0.tar.gz
-
-
-Desktop/CompSec/Proj0/gerardo_mares_assignment0.tar.gz
